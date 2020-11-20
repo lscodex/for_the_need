@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : sudoku_solver.cpp
+// Name        : main.cpp
 // Author      : lscodex
 // Version     :
 // Copyright   : Your copyright notice
